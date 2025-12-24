@@ -1,6 +1,5 @@
 {
   "responseCode": "200",
-  "lastUpdateTime": "1766566800000",
   "responseBody": {
     "patients": [
       {
