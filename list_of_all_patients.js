@@ -4,7 +4,7 @@
     "patients": [
       {
         "id": "1",
-        "name": "Patient 1",
+        "name": "Nikolas",
         "vitals": [
           { "bloodPressure": "120", "bloodSugar": "5.8", "heartBeats": "78", "dateTimeInMillis": "1735732800000" },
           { "bloodPressure": "122", "bloodSugar": "6.0", "heartBeats": "80", "dateTimeInMillis": "1735754400000" },
